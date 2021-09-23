@@ -1,2 +1,2 @@
-# FinalProjectAp
-this project written by QT in C++
+# Logistic regression and
+
